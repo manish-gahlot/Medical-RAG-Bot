@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-pinecone
+pinecone-client
+python-dotenv
+pypdf
+sentence-transformers
+huggingface_hub
